@@ -1,4 +1,4 @@
-# Heading  Hello👋
+# Hello👋
 
 my name is Daniel LAWSON
 - 👀 I’m interested in C# .NET on AWS
