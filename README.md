@@ -5,7 +5,7 @@ I am **Daniel LAWSON**, a software developer based in Paris, France. I am buildi
 I am a continuous learner and I love to share my learnings with the community. To do so, I create content on [my blog](https://danylaws.hashnode.dev/) and on [Twitter](https://twitter.com/danylaws). Feel free to give a follow !
 ### Again, welcome! 👍 🤗
 ---
-🛠️ **My Tools**
+🛠️ ##### My Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/>
 <!---
