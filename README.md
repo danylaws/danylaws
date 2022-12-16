@@ -4,7 +4,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGopQ6oyTe7-Q/profile-displaybackgroundimage-shrink_350_1400/0/1622850992064?e=1655337600&v=beta&t=UtPyLt-5AxwOufh-1ME9my-hxMLOEm46_2ctbwu10xk)
 
-I am **Daniel LAWSON**, a software developer based in Paris, France. I am building web apps with **C# .NET** since 2015, after a training in Microsoft technologies. Also, I am a cloud enthusiast and I like to host my apps on **AWS**. I am 3x AWS Certified with a fourth in mind for very soon :-)
+I am **Daniel LAWSON**, a software developer based in Paris, France. I am building web apps with **C# .NET** since 2015, after a training in Microsoft technologies. Also, I am a cloud enthusiast and I like to host my apps on **AWS**. I am 3x AWS Certified with a fourth in mind for very soon :-). I am an AWS Community Builder and User Group Leader.
 
 I am a continuous learner and I love to share my learnings with the community. To do so, I create content on [my blog](https://danylaws.hashnode.dev/) and on [Twitter](https://twitter.com/danylaws). Feel free to give a follow !
 ### Again, welcome! 👍 🤗
